@@ -1,0 +1,127 @@
+﻿<ZT2Strings>
+<entityname>
+   <!--animal names-->
+      <SioRolepIlaspis>Silurolepis</SioRolepIlaspis>
+      <SioRolepIlaspis_stt>Silurolepis</SioRolepIlaspis_stt>
+      <SioRolepIlaspis_lower>El Silurolepis</SioRolepIlaspis_lower>
+      <SioRolepIlaspis_ltt>
+         <color r="255" g="248" b="178">
+            <b>Silurolepis</b>
+         </color>
+         <br/>
+         Click para adoptar un Silurolepis, el primer placodermo.
+      </SioRolepIlaspis_ltt>
+      <!--gift names-->
+      <SioRolepIlaspis_Gift>Mochila de Silurolepis</SioRolepIlaspis_Gift>
+      <SioRolepIlaspis_Gift_stt>Mochila de Silurolepis</SioRolepIlaspis_Gift_stt>
+      <SioRolepIlaspis_Gift_lower>La Mochila de Silurolepis</SioRolepIlaspis_Gift_lower>
+      <SioRolepIlaspis_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>Mochila de Silurolepis</b>
+         </color>
+         <br/>La gente compra este regalo cuando ve al Silurolepis.
+      </SioRolepIlaspis_Gift_ltt>
+</entityname>
+<zoopedia_siorolepilaspis>
+ <entry>Silurolepis</entry>
+ <text>
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/SioRolepIlaspis/SioRolepIlaspis_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/extinct.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Estado de conservacion:
+                     <br/>
+                        <color r="255" g="255" b="255">
+                      Extincto
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Costa<br/></color>
+     <img src="ui/icon_biomes/icon_coastal.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Mar<br/></color> 
+     <img src="ui/icon_maplocations/pelagic_warm_oceans_worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Clase: <i>(Placpdermi)</i><br/>Orden: Antiarchiformes <br/>Familia: Jiangxilepidae <br/>Genero: <i>Silurolepis</i><br/>Especie: <i>S. Platydorsalis</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/coastal_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Datos divertidos del Silurolepis</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Es el placodermo basal, es decir, el primero. Todos los plaocdermos del Devonico surgieron de este.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Surgio en el Silurico.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>        
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255"> Su coraza mide 12,3 centimetros.</color> 
+    </cell>
+  </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    Para desbloquear el Silurolepis necesitas 1 estrella de fama en tu zoo. 
+   </color>
+   <p/>Silurolepis es el primer placodermo de todos. Apareció en los fondos de las aguas de los mares del Silurico. Al igual que todos los Antiarchiformes tiene el pecho plano, y eso explica que tenia gran actividad en el fondo del agua junto a la arena. Sus primeras caracteristicas de placodermo se ven a primnera vista, pudiendo distinguir una gran coraza que le recubre toda la cabeza y parte del cuerpo. Esta coraza media 12,3 centimetros de largo. Sus fosiles se han encontrado en Yunnan, al igual que muchos otros fossiles de Antiarchiformes como los Yunnanolepidos.
+   <p/>
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Contenido de <color r="255" g="231" b="135">Wikipedia</color> Imago
+  </cell>
+ </text>
+</zoopedia_siorolepilaspis>
+</ZT2Strings>
